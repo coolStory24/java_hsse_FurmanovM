@@ -1,4 +1,3 @@
-import account.Account;
 import client.Client;
 import enums.Currency;
 import exceptions.ClientNotFoundException;
